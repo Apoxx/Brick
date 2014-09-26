@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="80" height="45" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="spritesheet" tilewidth="16" tileheight="16">
+  <image source="../sprites/spritesheet.png" width="128" height="48"/>
+ </tileset>
+ <layer name="background" width="80" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKGL8P3TrsdQcNVUVVVVVVVVVVVVVVVV1VcPjTXhAQ==
+  </data>
+ </layer>
+ <layer name="ground" width="80" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztmEsKw0AMxdzQ+5+5dJFdoRmPP3LyCtrGisYEOoeZHQu8ArHF2ZFYs1tUw65+BLep7a64UzwIjsTd2+nXuXek3fM0pLcj9+tuR+1H9ppyzlQv9att1+FKdLpjvwgvz7NW21V3rHDaed5Ov38z3s73y/Lxzsru9wsD+GTvdVY7r1O3z4pvt4sQQgghhBBCRGIAh6l8f9P+31LouO+5C547NzW+3i7z7nky0e2e1jCr31M6Tu5HOK/sflnvRNr5af2887K8pu3gyrwKt0n9qH7EfhXnetd+le12G9J8tHs8n0mexPOMdCU6dX77CG67zU6sod+JBbl9AEo2E5o=
+  </data>
+ </layer>
+ <layer name="decorations" width="80" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztm91uwyAMhSul69q13fs/buHCEkJA/INtmviTuMoWDocDQ8O5XGi8UttSuxN/r8XPhHdwue0819aWfZR4+Jvac5IWDiP/rLRJPPTMXmbkn6W2vXVQk+c2r3/P7P2n9td5Zr0uKBn0XrPAKtkDMBlcxbtR9jIe/mEy6L3fAd5/d3usqqtkL3uZ8K8PZp8J/9pgspd5pPZW1lKz8roAKOcsa60YbbPmNc/VlfgubPaAB6MPCdi5lXgIvoEPlDFSz/gApo9r1bDjg/GUY8Jqono4yg/mfVz/yj5qn6Bx9FDXQ08Pph/M/Iw0S7VyGI1vpp7RvM7ItYd3Ja3xeerZo9a7stYgCIIgCIIgOCNb1WbUFRwduIPdGs+kdQVHB3OPWHtY+n3mnFLuYKFOqFcrMLOO6BvQur8+y3rXvBM5QxYt7pSk/yfv0dp/refLwj+NtTzadyz3Dqs7zZkZxOzZrf40zgtW9+ozM4GZc+iv9EzrvPBNGaSetSg/u3rNLLcmtWyatYKS+3SLNUzR51FXyc2gldaVa3UATgY1tXLqOTyyh61pKNGueefe81tnj6rT4lsBSY2EtX8rfisgOat41bpjzoGr7XUtjvD92wejMgkg
+  </data>
+ </layer>
+ <layer name="collisions" width="80" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztmMsRxCAMxegg/Xe7hxSwGP/k8DTDFRThS3jWWo9hRWM5O3J1u0Vxa7+Ihl3tdtwpHgRH4ux5+nXOHWn2ThrS23U47tLdjtqP7DXlnqle6lfbrsOV6PTFfhFeJ3t5oPU7dfLsF4Fl7+w73T3DclZ2PytVPtlz3Q3N5x+TXIUQQgghhBBC1DHt/5YC7b1nEidvbmr80v32PJnodrc1zOp3S8fJ/Qj3ld0v65tIMz+t3+l5WV7TZtByXoXbpH5UP2K/inv9ar/Kdt6GNJ9MpymzR/OZ5OmF3o/oVOnn8SU4dDlGfMPOPj9pEVNi
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="spritesheet" tilewidth="16" tileheight="16">
+  <image source="../sprites/spritesheet.png" width="128" height="48"/>
+ </tileset>
+ <tileset firstgid="25" name="spritesheet2" tilewidth="16" tileheight="16">
+  <image source="../sprites/spritesheet2.png" width="128" height="48"/>
+ </tileset>
+ <layer name="regions" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzTYKAd0Bjk5o2CUTAKRsEoIB8AAMseAHk=
+  </data>
+ </layer>
+ <layer name="input_ground" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJyTYqAdkKKyeZJUNm8UjIJRMApGAfkAAM1rAE4=
+  </data>
+ </layer>
+ <layer name="output_decorations" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBg6QGagHTAKRsEoGAWjAA4AonAAHQ==
+  </data>
+ </layer>
+ <layer name="output0_ground" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <layer name="output1_ground" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <layer name="output2_ground" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <layer name="output3_ground" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <layer name="output4_ground" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+ <layer name="output_collisions" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApIBwAGQAAB
+  </data>
+ </layer>
+</map>

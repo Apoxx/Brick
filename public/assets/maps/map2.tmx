@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="80" height="45" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="spritesheet2" tilewidth="16" tileheight="16">
+  <image source="../sprites/spritesheet2.png" width="128" height="48"/>
+ </tileset>
+ <layer name="background" width="80" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAA8GY4QAAB
+  </data>
+ </layer>
+ <layer name="ground" width="80" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt18ENwEAIA8FL+i86LURC2ObYx/7N/HjPOW9Az8/cO1PDDz/85oafxg/Duh+GdT8M634Y4uf2wxA//ObaYYgffrPtNhvil2G3zbDDzuGn3NVl5nBU3uIKI52nexsRERER0Yb4Y2o2/IP9bpscu+1uNFSZ3ebncLvB0W020c/tlOjuviEh7PSG7r2J4afxc+9MbarfB9btFco=
+  </data>
+ </layer>
+ <layer name="decorations" width="80" height="45">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T20PBxQAAAAAAAAAAAAAAAAA8GY4QAAB
+  </data>
+ </layer>
+ <layer name="collisions" width="80" height="45">
+  <data encoding="base64" compression="zlib">
+   eJzt2DEOwCAQA8H7Af//bSrKSFGAs412JffcdMmoqmGwr6nf6Tr88MMvd/j1+GG47ofhuh+G634Y4qf2wxA//HLtZuob8MvdjtQ3JNvN1Lfgl7UTqW9KtivjO5zNTr3X5RZVGO0NKyIiIiIibXzHvMc387/49/C/03Y3GnaZ3eancLvBUW2W6Kd2cnRX3+Aw7PoN1e91HH49fup3ui7V7wHlOnPY
+  </data>
+ </layer>
+</map>
